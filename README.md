@@ -1,4 +1,4 @@
-# Hi, I'm Aswin 👋  
+# Hi, I'm Aswin Santhosh Kumar👋  
 
 🎓 Electronics & Communication Engineering Graduate  
 💻 Python & Java Full Stack Developer  
